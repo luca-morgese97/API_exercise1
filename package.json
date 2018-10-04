@@ -1,0 +1,24 @@
+{
+  "name": "api_exercise1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luca-morgese97/API_exercise1.git"
+  },
+  "author": "luca-morgese97",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luca-morgese97/API_exercise1/issues"
+  },
+  "homepage": "https://github.com/luca-morgese97/API_exercise1#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
